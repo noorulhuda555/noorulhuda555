@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Science, AI, and Machine Learning
 - 💞️ I’m looking to collaborate on projects related to data analysis, AI models, Data Visualization, NLP, and Python.
 - 📫 Reach me at: noorulhuda2114@gmail.com
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’m a big fan of mystery novels and can spend hours lost in a good story!
 <!---
 noorulhuda555/noorulhuda555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
